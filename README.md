@@ -6,6 +6,7 @@ The program is designed to empower participants with cutting-edge knowledge and 
 **College:** RV Institute of Technology and Management  
 **E-mail:** rvit22bec050.rvitm@rvei.edu.in  
 **Linkedln Profile:** https://www.linkedin.com/in/vishnupriya-v-213b282a5/  
+**GitHub Profile:** https://github.com/Vishnupriya280104
 
 ### Task 1
 Task is to install the RISC-V toolchain using the VDI link and perform C based lab and RISC-V based lab
