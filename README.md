@@ -153,22 +153,22 @@ imm[19:12]: 00101000
 ![objdump_12](https://github.com/user-attachments/assets/77c47ad1-1614-4558-b4f0-8ea80ed3ef17)   
 **Type:** U-type  
 **Breakdown:**  
-**Immediate** (imm[31:12]): 0xfffff0 → Binary: 111111111111111111110000.  
-**Destination Register** (rd): a5 = x15 → Binary: 01111.   
-**Opcode:** auipc → Binary: 0010111.
-**32-bit Binary Representation:** 111111111111111111110000 01111 0010111
-**Hexadecimal Representation:** 0xfffff097  
+**Immediate** (imm[31:12]): 0xfffff0 → Binary: 111111111111111111110000.    
+**Destination Register** (rd): a5 = x15 → Binary: 01111.     
+**Opcode:** auipc → Binary: 0010111.   
+**32-bit Binary Representation:** 111111111111111111110000 01111 0010111  
+**Hexadecimal Representation:** 0xfffff097     
 #### Machine code for addi a5, a5, -220  
 ![objdump_13](https://github.com/user-attachments/assets/d698b917-c88a-40ee-baf3-4cf69344f50d)  
 **Type:** I-type  
 **Breakdown:**   
-**Immediate** (imm[11:0]): -220 → Two's complement: 111100110100.   
-**Source Register** (rs1): a5 = x15 → Binary: 01111.
-**Destination Register** (rd): a5 = x15 → Binary: 01111.
-**Function Code** (funct3): addi → Binary: 000.
-**Opcode:** addi → Binary: 0010011.
-**32-bit Binary Representation:** 111100110100 01111 000 01111 0010011
-**Hexadecimal Representation:** 0xf2478793  
+**Immediate** (imm[11:0]): -220 → Two's complement: 111100110100.     
+**Source Register** (rs1): a5 = x15 → Binary: 01111.  
+**Destination Register** (rd): a5 = x15 → Binary: 01111.  
+**Function Code** (funct3): addi → Binary: 000.  
+**Opcode:** addi → Binary: 0010011.  
+**32-bit Binary Representation:** 111100110100 01111 000 01111 0010011  
+**Hexadecimal Representation:** 0xf2478793    
 #### Machine code for beqz a5, 100f4 <register_fini+0x18>  
 ![objdump_14](https://github.com/user-attachments/assets/862a0530-cc68-4678-8997-4b840d36d244)  
 **Expanded Form:** beqz is equivalent to beq a5, x0, offset.   
@@ -183,18 +183,18 @@ imm[4:1]: 1100
 imm[11]: 0  
 **Source Registers:**  
 rs1: a5 = x15 → Binary: 01111.  
-rs2: x0 → Binary: 00000.  
-**Function Code** (funct3): beq → Binary: 000.   
-**Opcode:** beq → Binary: 1100011.
-**32-bit Binary Representation:** 0 000000 01100 01111 000 00000 1100011  
+rs2: x0 → Binary: 00000.    
+**Function Code** (funct3): beq → Binary: 000.      
+**Opcode:** beq → Binary: 1100011.   
+**32-bit Binary Representation:** 0 000000 01100 01111 000 00000 1100011     
 **Hexadecimal Representation:** 0x00007863  
 #### Machine code for auipc a0, 0x0  
 ![objdump_15](https://github.com/user-attachments/assets/6bb7138e-3379-436f-97c4-2c2ce75c767a)  
 **Type:** U-type  
 **Breakdown:**   
 **Immediate** (imm[31:12]): 0x0 → Binary: 000000000000.  
-**Destination Register** (rd): a0 = x10 → Binary: 01010.
-**Opcode:** auipc → Binary: 0010111.   
+**Destination Register** (rd): a0 = x10 → Binary: 01010.  
+**Opcode:** auipc → Binary: 0010111.     
 **32-bit Binary Representation:** 000000000000 01010 0010111  
 **Hexadecimal Representation:** 0x00000517  
 
