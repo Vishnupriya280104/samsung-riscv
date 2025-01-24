@@ -17,9 +17,11 @@ Task is to decode RISC-V Instructions: A Visual Guide
 ### Task 4
 Task is to perform a functional simulation and observe the waveform
 
-'''
-Look! You can see my backticks.
-'''
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 
 
