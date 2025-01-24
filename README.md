@@ -17,6 +17,3 @@ Task is to decode RISC-V Instructions: A Visual Guide
 ### Task 4
 Task is to perform a functional simulation and observe the waveform
 
-```
-see you
-```
