@@ -18,10 +18,5 @@ Task is to decode RISC-V Instructions: A Visual Guide
 Task is to perform a functional simulation and observe the waveform
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+see you
 ```
-
-
-
