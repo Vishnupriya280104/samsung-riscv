@@ -13,8 +13,9 @@ Task is to install the RISC-V toolchain using the VDI link and perform C based l
 ### Task 2
 Task is to Compile the C program using RISC-V GCC/SPIKE and observe the performance under the -O1 and -Ofast compiler optimization flags, and to generate and collect the RISC-V object dump for both -O1 and -Ofast.
 ### Task 3
-Decoding RISC-V Instructions: A Visual Guide
-  
+Task is to decode RISC-V Instructions: A Visual Guide  
+### Task 4
+Task is to perform a functional simulation and observe the waveform
 
 
 
