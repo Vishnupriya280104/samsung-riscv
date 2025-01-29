@@ -19,9 +19,11 @@ Task is to perform a functional simulation and observe the waveform
 
 ### Task 5
 <details>
-**JK Flip-Flop Implementation Using CH32V003F4U6 Microcontroller**
-***Overview:***
-This project implements a JK flip-flop using the CH32V003F4U6 microcontroller. The flip-flop takes J, K, and Clock inputs and toggles the Q output accordingly. The application demonstrates sequential logic design and real-time signal processing using embedded C. By utilizing the microcontroller's GPIO functionality, the JK flip-flop behavior is controlled and observed through hardware and software interactions. This project serves as an educational experiment for understanding the fundamental concepts of flip-flops, timing control, and state transitions in digital electronics. Additionally, it can be expanded for practical applications such as counters, memory elements, and sequential circuits in embedded systems.
+  
+**JK Flip-Flop Implementation Using CH32V003F4U6 Microcontroller**  
+
+***Overview:***  
+This project implements a JK flip-flop using the CH32V003F4U6 microcontroller. The flip-flop takes J, K, and Clock inputs and toggles the Q output accordingly. The application demonstrates sequential logic design and real-time signal processing using embedded C. By utilizing the microcontroller's GPIO functionality, the JK flip-flop behavior is controlled and observed through hardware and software interactions. This project serves as an educational experiment for understanding the fundamental concepts of flip-flops, timing control, and state transitions in digital electronics. Additionally, it can be expanded for practical applications such as counters, memory elements, and sequential circuits in embedded systems.  
 
 ***Cicuit Diagram:***
 ![vsd](https://github.com/user-attachments/assets/4273c313-239a-4f58-84bc-5fb9462c07cc)
