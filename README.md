@@ -9,10 +9,10 @@ The program is designed to empower participants with cutting-edge knowledge and 
 **GitHub Profile:** https://github.com/Vishnupriya280104
 
 <details>
-
   <summary>Task 1: Task is to install the RISC-V toolchain using the VDI link and perform C based lab and RISC-V based lab</summary>       
   Ubuntu Installation       
-![ubuntu_installation](https://github.com/user-attachments/assets/727baea8-e309-4ded-9c53-74423d5f12ff)       
+![ubuntu_installation](https://github.com/user-attachments/assets/4751bdbc-7872-46a5-9b62-eb360a130b2e)
+     
   RISCV64       
 ![riscv64](https://github.com/user-attachments/assets/8f58719c-4ba2-420e-8cdc-3a69251a0ca8)     
   RISCV_O1     
@@ -21,7 +21,6 @@ The program is designed to empower participants with cutting-edge knowledge and 
 ![riscv_Ofast](https://github.com/user-attachments/assets/a5ef1181-6030-4d99-8b08-65ed5d3bdea9)     
   Sum of numbers using C     
 ![sum_of_numbers_using_c](https://github.com/user-attachments/assets/b2c78484-7999-4f0f-b7b9-ded01512eb9e)       
-
 </details>
 
 ### Task 2
