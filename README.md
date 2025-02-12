@@ -8,6 +8,7 @@ The program is designed to empower participants with cutting-edge knowledge and 
 **Linkedln Profile:** https://www.linkedin.com/in/vishnupriya-v-213b282a5/  
 **GitHub Profile:** https://github.com/Vishnupriya280104
 
+### Task 1
 <details>
   <summary>Task 1: Task is to install the RISC-V toolchain using the VDI link and perform C based lab and RISC-V based lab</summary>       
   
@@ -32,6 +33,7 @@ The program is designed to empower participants with cutting-edge knowledge and 
 ![sum_of_numbers_using_c](https://github.com/user-attachments/assets/b2c78484-7999-4f0f-b7b9-ded01512eb9e)       
 </details>
 
+### Task 2
 <details>
   <summary>Task 2: Task is to Compile the C program using RISC-V GCC/SPIKE and observe the performance under the -O1 and -Ofast compiler optimization flags, and to generate and collect the RISC-V object dump for both -O1 and -Ofast.</summary>  
   
