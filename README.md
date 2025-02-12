@@ -508,7 +508,7 @@ void HardFault_Handler(void)
 ``` 
 </details>
 
-
+### Task 6
 <details>
 	<summary>Task 6: Final task is to implement the project using VSDSquadron Mini and check whether the building and uploading of C program file on RISCV processor works.  </summary>
 </details>
