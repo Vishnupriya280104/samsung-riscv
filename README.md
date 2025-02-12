@@ -312,14 +312,14 @@ rs2: x0 → Binary: 00000.
   **Overview:**  
   The home safety system showcased here introduces an innovative solution utilizing a VSD Squadron Mini Developement Board, an IR sensor, a piezo buzzer and a Servo Motor. It essentially comprises of a smart door lock using a keypad and a servo motor, and a burglar detection system using an IR sensor and piezo buzzer.  
 
-  *If the password entered by the user on the keypad is correct, the servo motor opens the door to allow entry into the house.  
-  *If the password entered is incorrect, the user is denied entry into the house and the door remains closed.  
-  +If the door is closed and movement is detected in the house using the IR sensor, the piezo buzzer alarms the home owner that there is a potential burglar who has brached into the house.  
-  +If the password is entered correctly and the door is open, the IR sensor is switched off to avoid wrong detection.  
+*If the password entered by the user on the keypad is correct, the servo motor opens the door to allow entry into the house.  
+*If the password entered is incorrect, the user is denied entry into the house and the door remains closed.  
++If the door is closed and movement is detected in the house using the IR sensor, the piezo buzzer alarms the home owner that there is a potential burglar who has brached into the house.  
++If the password is entered correctly and the door is open, the IR sensor is switched off to avoid wrong detection.  
 
   **Components Required:**  
-  -VSD Squadron Mini developement board with CH32V003F4U6 chip with 32-bit RISC-V core based on RV32EC instruction set  
-  -IR sensor  
+-VSD Squadron Mini developement board with CH32V003F4U6 chip with 32-bit RISC-V core based on RV32EC instruction set  
+-IR sensor  
   -Keypad  
   -Servo motor  
   -Piezo buzzer  
