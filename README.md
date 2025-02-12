@@ -61,8 +61,7 @@ The program is designed to empower participants with cutting-edge knowledge and 
 
 </details>
 
-### Task
-
+### Task 3
 <details>
   <summary>Task3: A Visual guide on decoding RISC-V instructions</summary>
 
@@ -250,9 +249,14 @@ rs2: x0 → Binary: 00000.
 **32-bit Binary Representation:** 000000000000 01010 0010111  
 **Hexadecimal Representation:** 0x00000517
 
-</details>  
+</details>
+
 ### Task 4
-Task is to perform a functional simulation and observe the waveform
+<details>
+  <summary>Task 4:  Task is to perform a functional simulation and observe the waveform</summary>
+  
+</details>
+ 
 
 
 
