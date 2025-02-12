@@ -254,7 +254,55 @@ rs2: x0 → Binary: 00000.
 ### Task 4
 <details>
   <summary>Task 4:  Task is to perform a functional simulation and observe the waveform</summary>
+
+  **Functional simulatio of riscv**
   
+![Functional simulatio of riscv](https://github.com/user-attachments/assets/b94c5472-d319-47ed-b37a-43b4cb8d90ea)
+
+  **ADD**
+  
+![add](https://github.com/user-attachments/assets/aeaccfe3-d707-48aa-98bd-d1062a6d32d4)
+  
+  **ADDI**
+  
+![addi](https://github.com/user-attachments/assets/f69f7716-2856-404d-a7ab-84815296d307)
+
+  **AND**
+  
+![and](https://github.com/user-attachments/assets/c2c3bec3-c57e-49b3-8f56-55fd40528e00)
+  
+  **BEQ**
+  
+![beq](https://github.com/user-attachments/assets/4d85e92c-de59-4c72-b1a3-b764ed2d03fe)
+  
+  **BNE**
+  
+![bne](https://github.com/user-attachments/assets/7530286a-9f5a-4687-91d9-9740aabe1eb9)
+  
+  **GTKwave** 
+  
+![GTKwave](https://github.com/user-attachments/assets/c28c23da-7dbd-4d86-8654-e1ef53a88b50)
+  
+  **OR**
+  
+![or](https://github.com/user-attachments/assets/7fdb5c0a-7379-4975-91ac-c8936efc2d76)
+  
+  **SLL**
+  
+![sll](https://github.com/user-attachments/assets/b8a279a0-a54a-40c1-822e-ed8778358bba)
+  
+  **SLT**
+  
+![slt](https://github.com/user-attachments/assets/aae6680a-897c-446f-bd9c-2340d6ac75b2)
+  
+  **SUB**
+  
+![sub](https://github.com/user-attachments/assets/252511c1-4ebd-40dd-a30e-90f1376054a3)
+  
+  **XOR**
+  
+![xor](https://github.com/user-attachments/assets/e9b909cf-6d23-4dee-8b59-949f75534931)
+
 </details>
  
 
