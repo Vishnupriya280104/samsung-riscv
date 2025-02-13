@@ -309,6 +309,8 @@ rs2: x0 → Binary: 00000.
 <details>
   <summary>Task 5: Task is to document a project using VSDSquadron Mini. </summary>
 
+  **Home security system using VSD Squadron Mini board** 
+
   **Overview:**  
   The home safety system showcased here introduces an innovative solution utilizing a VSD Squadron Mini Developement Board, an IR sensor, a piezo buzzer and a Servo Motor. It essentially comprises of a smart door lock using a keypad and a servo motor, and a burglar detection system using an IR sensor and piezo buzzer.  
 
